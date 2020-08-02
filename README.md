@@ -27,7 +27,7 @@ Ensure local installation of following softwares/tools:
 
 Open your command/shell terminal
 
-Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj1/db_test).
+Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj1/db).
 
 Execute standard maven command to build and install library:
 
