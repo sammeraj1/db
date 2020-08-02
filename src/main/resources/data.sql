@@ -8,6 +8,6 @@ CREATE TABLE Trade (
   bookId VARCHAR(250) DEFAULT NULL,
   maturityDate Date not null,
   createdDate Date not null,
-  expired VARCHAR(1) DEFAULT 'N',
+  expired VARCHAR(1) DEFAULT 'N'
 );
 
